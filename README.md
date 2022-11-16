@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cbouyio or Costas Bouyioukos assistant professor of bioinformatics at teh University of Paris (Université Paris Cité)
+- 👋 Hi, I’m @cbouyio or Costas Bouyioukos assistant professor of bioinformatics at the University of Paris (Université Paris Cité)
 - 👀 I’m interested in bioinformatics, computational and systems biology, multi-omics and regulatory analysis and deep-ML/AI applications to biology
 - 🌱 I’m currently learning, deepML models architectures
 - 💞️ I’m looking to collaborate on, 3-dimensional data representation and visualisation
